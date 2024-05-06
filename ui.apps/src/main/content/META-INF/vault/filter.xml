@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/reactdemo/clientlibs"/>
+    <filter root="/apps/reactdemo/components"/>
+    <filter root="/apps/reactdemo/i18n"/>
+    <filter root="/apps/msm/reactdemo_blueprint" mode="merge"/>
+</workspaceFilter>
